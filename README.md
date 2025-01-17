@@ -10,3 +10,4 @@ This repository contains a list of improvements related to the DIG network.
 
 - [1 - Identity and Retrieval](./DIPs/dip-0001.md)
 - [2 - DIG Reward Distributor](./DIPs/dip-0002.md)
+- [3 - Proof of Content Presence](./DIPs/dip-0003.md)
